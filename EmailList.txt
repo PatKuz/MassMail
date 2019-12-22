@@ -1,0 +1,5 @@
+SampleRecipient1@gmail.com
+SampleRecipient2@gmail.com
+SampleRecipient3@gmail.com
+SampleRecipient4@gmail.com
+SampleRecipient5@gmail.com

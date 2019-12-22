@@ -1,0 +1,10 @@
+Dear User,
+
+  This is a sample email, feel
+free to edit it as you wish. Please
+note that this project is strictly
+for educational use, and should not be
+used for anything malicious.
+
+Thank You,
+Me
