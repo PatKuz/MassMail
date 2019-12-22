@@ -4,5 +4,5 @@
 - Customize the EmailBody.txt file exactly how you wish the message to appear for the recipient
 - Fill the EmailList.txt file with the recipients' email addresses, following the sample formatting and making sure there are no empty lines at the end of the file
 - Run the program
-- Enter the desired email subject
-- Allow the program to run while the emails are being sent
+- Enter the desired email subject once prompted
+- Wait while the emails are being sent
